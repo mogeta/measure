@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "measure",
+      "public": "dist/measure",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

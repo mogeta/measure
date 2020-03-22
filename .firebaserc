@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "measure-ee5c1": {
+      "hosting": {
+        "measure": [
+          "measure-ee5c1"
+        ]
+      }
+    }
+  }
+}
